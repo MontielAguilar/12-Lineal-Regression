@@ -9,9 +9,10 @@ Linear regression is a statistical method that seeks to understand the relations
 This project utilizes linear regression to predict the hiring or non-hiring of a banking product through the collection and analysis of data (extracted via URL).
 
 ## Repository Contents
-/data: (Data is imported via URL)
-/Model: No model is saved to avoid repository bloat.
-/src: Source code related to the implementation of linear regression.
+* /data: (Data is imported via URL)
+* /Model: No model is saved to avoid repository bloat.
+* /src: Source code related to the implementation of linear regression.
+* /traintest: train and test
 
 ## Contributions and Issues
 Contributions are welcome! If you encounter any issues or have suggestions to improve the project, please open an issue or submit a pull request.
